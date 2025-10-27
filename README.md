@@ -30,4 +30,5 @@ POST /api/recomendar/
   "plataforma": "string",
   "ramDisponivel": 0
 }
+> 
 GET /api/historico
