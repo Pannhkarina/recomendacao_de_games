@@ -7,6 +7,7 @@
 * Visual Studio ou VS Code
 * Pacotes NuGet:
   > Microsoft.EntityFrameworkCore.SqlServer
+  > 
   > Microsoft.EntityFrameworkCore.Design
 
 ## Configuração do Banco de Dados
